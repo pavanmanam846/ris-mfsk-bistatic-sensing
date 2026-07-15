@@ -180,6 +180,4 @@ If you want to tweak parameters (such as testing different element counts, shift
 
 *Affiliation: University of North Texas*
 
-**Email**: npavanmohan3@gmail.com
-
-**Personal Website 🔴🔵**: [pavanmohan.netlify.app](https://pavanmohan.netlify.app/)
+**Email**: manamkeerthipavankumar@gmail.com
